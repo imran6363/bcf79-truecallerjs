@@ -8,7 +8,7 @@
 - Save System
 
 ## Installation
-git clone https://github.com/YOUR-USERNAME/BCF79.git
+git clone https://github.com/imran6363/BCF79.git
 cd BCF79
 bash install.sh
 
