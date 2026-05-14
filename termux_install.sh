@@ -8,7 +8,7 @@
 clear
 echo ""
 echo "╔═══════════════════════════════════════════════════════════════╗"
-echo "║              🛡️  W8Team WiFi Hacker Installer                 ║"
+echo "║              🛡️  BCF79 WiFi Hacker Installer                 ║"
 echo "║                    Advanced Auto System v2.0                  ║"
 echo "╠═══════════════════════════════════════════════════════════════╣"
 echo "║  Author: Bangladesh Cyber Force 79                            ║"
