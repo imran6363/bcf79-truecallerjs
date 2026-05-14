@@ -180,7 +180,7 @@ cat auto_attack_results.txt
 ## 📞 **Get Help**
 
 ### **Telegram Support**
-- Channel: https://t.me/W8SOJIB
+- Channel: https://t.me/bangladeshcybarforce79
 - Direct support from developer
 - Community help and tips
 - Latest updates and features
@@ -232,6 +232,6 @@ cd ~ && rm -rf W8RootWifiHK && git clone [repo] && cd W8RootWifiHK
 
 **🛡️ Happy Ethical Hacking! 🛡️**
 
-*Made with ❤️ by W8Team/W8SOJIB*
+*Made with ❤️ by Bangladesh Cyber Force 79
 
-**📱 Join us: https://t.me/W8SOJIB**
+**📱 Join us: https://t.me/bangladeshcybarforce79
