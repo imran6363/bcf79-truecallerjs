@@ -4,7 +4,7 @@
 
 ```bash
 # Copy and paste this entire block:
-pkg update && pkg upgrade -y && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw openssl python-pip aircrack-ng hashcat && pip install pyfiglet psutil requests && git clone https://github.com/W8SOJIB/W8RootWifiHKV2 && cd W8RootWifiHKV2 && echo "🎉 Ready to hack! Run: tsu && python oneshot.py"
+pkg update && pkg upgrade -y && pkg install -y root-repo && pkg install -y git tsu python wpa-supplicant pixiewps iw openssl python-pip aircrack-ng hashcat && pip install pyfiglet psutil requests && git clone https://github.com/imran6363/W8RootWifiHKV4.git && cd W8RootWifiHKV4 && echo "🎉 Ready to hack! Run: tsu && python oneshot.py"
 ```
 
 ## 📋 **Step-by-Step Installation**
