@@ -39,7 +39,7 @@ pip install pyfiglet psutil requests
 ### **Step 4: Clone Repository**
 ```bash
 git clone https://github.com/W8SOJIB/W8RootWifiHKV2
-cd W8RootWifiHKV2
+cd W8RootWifiHKV4
 ```
 
 ### **Step 5: Run Installer (Optional)**
