@@ -116,7 +116,7 @@ echo -e "${PURPLE}║                    INSTALLATION COMPLETE                  
 echo -e "${PURPLE}╚═══════════════════════════════════════════════════════════════╝${NC}"
 echo ""
 
-echo -e "${GREEN}🎉 W8Team WiFi Hacker has been installed successfully!${NC}"
+echo -e "${GREEN}🎉 bcf79 WiFi Hacker has been installed successfully!${NC}"
 echo ""
 echo -e "${BLUE}📋 NEXT STEPS:${NC}"
 echo -e "${YELLOW}1.${NC} Grant root permissions: ${CYAN}tsu${NC}"
